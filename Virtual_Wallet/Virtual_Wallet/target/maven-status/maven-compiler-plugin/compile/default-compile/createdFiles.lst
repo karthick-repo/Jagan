@@ -1,0 +1,6 @@
+com\wipro\model\CardEntity.class
+com\wipro\VirtualWalletApplication.class
+com\wipro\controller\VWController.class
+com\wipro\dao\VMCardRepo.class
+com\wipro\model\LoginEntity.class
+com\wipro\dao\VMLoginRepo.class
